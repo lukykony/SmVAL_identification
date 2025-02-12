@@ -1,0 +1,202 @@
+Phobius prediction
+
+ID   Smp_123090
+FT   SIGNAL        1     21       
+FT   REGION        1      6       N-REGION.
+FT   REGION        7     17       H-REGION.
+FT   REGION       18     21       C-REGION.
+FT   TOPO_DOM     22    186       NON CYTOPLASMIC.
+//
+ID   Smp_078490
+FT   SIGNAL        1     24       
+FT   REGION        1      4       N-REGION.
+FT   REGION        5     16       H-REGION.
+FT   REGION       17     24       C-REGION.
+FT   TOPO_DOM     25    219       NON CYTOPLASMIC.
+//
+ID   Smp_001890
+FT   TOPO_DOM      1      5       NON CYTOPLASMIC.
+FT   TRANSMEM      6     26       
+FT   TOPO_DOM     27    194       CYTOPLASMIC.
+//
+ID   Smp_012350
+FT   TOPO_DOM      1    423       NON CYTOPLASMIC.
+//
+ID   Smp_131370
+FT   TOPO_DOM      1    208       NON CYTOPLASMIC.
+//
+ID   Smp_070250
+FT   SIGNAL        1     25       
+FT   REGION        1      8       N-REGION.
+FT   REGION        9     20       H-REGION.
+FT   REGION       21     25       C-REGION.
+FT   TOPO_DOM     26    248       NON CYTOPLASMIC.
+//
+ID   Smp_123550
+FT   TOPO_DOM      1      5       NON CYTOPLASMIC.
+FT   TRANSMEM      6     22       
+FT   TOPO_DOM     23    249       CYTOPLASMIC.
+//
+ID   Smp_124060
+FT   TOPO_DOM      1    236       NON CYTOPLASMIC.
+//
+ID   Smp_002060
+FT   SIGNAL        1     23       
+FT   REGION        1      4       N-REGION.
+FT   REGION        5     16       H-REGION.
+FT   REGION       17     23       C-REGION.
+FT   TOPO_DOM     24    170       NON CYTOPLASMIC.
+//
+ID   Smp_139450
+FT   SIGNAL        1     24       
+FT   REGION        1      4       N-REGION.
+FT   REGION        5     16       H-REGION.
+FT   REGION       17     24       C-REGION.
+FT   TOPO_DOM     25    219       NON CYTOPLASMIC.
+//
+ID   Smp_124050
+FT   TOPO_DOM      1    429       NON CYTOPLASMIC.
+//
+ID   Smp_012350
+FT   TOPO_DOM      1    400       NON CYTOPLASMIC.
+//
+ID   Smp_120670
+FT   TOPO_DOM      1    153       NON CYTOPLASMIC.
+//
+ID   Smp_123540
+FT   TOPO_DOM      1      5       NON CYTOPLASMIC.
+FT   TRANSMEM      6     25       
+FT   TOPO_DOM     26    204       CYTOPLASMIC.
+//
+ID   Smp_002630
+FT   SIGNAL        1     16       
+FT   REGION        1      4       N-REGION.
+FT   REGION        5     11       H-REGION.
+FT   REGION       12     16       C-REGION.
+FT   TOPO_DOM     17    229       NON CYTOPLASMIC.
+//
+ID   Smp_124050
+FT   TOPO_DOM      1    414       NON CYTOPLASMIC.
+//
+ID   Smp_141550
+FT   SIGNAL        1     29       
+FT   REGION        1     14       N-REGION.
+FT   REGION       15     24       H-REGION.
+FT   REGION       25     29       C-REGION.
+FT   TOPO_DOM     30    195       NON CYTOPLASMIC.
+//
+ID   Smp_124070
+FT   TOPO_DOM      1    169       NON CYTOPLASMIC.
+//
+ID   Smp_124050
+FT   TOPO_DOM      1    423       NON CYTOPLASMIC.
+//
+ID   Smp_141560
+FT   SIGNAL        1     29       
+FT   REGION        1     13       N-REGION.
+FT   REGION       14     24       H-REGION.
+FT   REGION       25     29       C-REGION.
+FT   TOPO_DOM     30    195       NON CYTOPLASMIC.
+//
+ID   Smp_002070
+FT   SIGNAL        1     19       
+FT   REGION        1      3       N-REGION.
+FT   REGION        4     14       H-REGION.
+FT   REGION       15     19       C-REGION.
+FT   TOPO_DOM     20    181       NON CYTOPLASMIC.
+//
+ID   Smp_127130
+FT   TOPO_DOM      1    225       NON CYTOPLASMIC.
+//
+ID   Smp_154260
+FT   SIGNAL        1     24       
+FT   REGION        1      9       N-REGION.
+FT   REGION       10     20       H-REGION.
+FT   REGION       21     24       C-REGION.
+FT   TOPO_DOM     25    182       NON CYTOPLASMIC.
+//
+ID   Smp_159290
+FT   SIGNAL        1     19       
+FT   REGION        1      3       N-REGION.
+FT   REGION        4     15       H-REGION.
+FT   REGION       16     19       C-REGION.
+FT   TOPO_DOM     20    234       NON CYTOPLASMIC.
+//
+ID   Smp_176160
+FT   SIGNAL        1     24       
+FT   REGION        1      9       N-REGION.
+FT   REGION       10     20       H-REGION.
+FT   REGION       21     24       C-REGION.
+FT   TOPO_DOM     25    182       NON CYTOPLASMIC.
+//
+ID   Smp_300070
+FT   TOPO_DOM      1      6       CYTOPLASMIC.
+FT   TRANSMEM      7     27       
+FT   TOPO_DOM     28    193       NON CYTOPLASMIC.
+//
+ID   Smp_154290
+FT   SIGNAL        1     24       
+FT   REGION        1      9       N-REGION.
+FT   REGION       10     20       H-REGION.
+FT   REGION       21     24       C-REGION.
+FT   TOPO_DOM     25    182       NON CYTOPLASMIC.
+//
+ID   Smp_316760
+FT   TOPO_DOM      1    178       NON CYTOPLASMIC.
+//
+ID   Smp_313710
+FT   TOPO_DOM      1    178       NON CYTOPLASMIC.
+//
+ID   Smp_331830
+FT   TOPO_DOM      1    157       NON CYTOPLASMIC.
+//
+ID   Smp_193680
+FT   SIGNAL        1     24       
+FT   REGION        1      7       N-REGION.
+FT   REGION        8     19       H-REGION.
+FT   REGION       20     24       C-REGION.
+FT   TOPO_DOM     25    234       NON CYTOPLASMIC.
+//
+ID   Smp_176180
+FT   SIGNAL        1     24       
+FT   REGION        1      6       N-REGION.
+FT   REGION        7     19       H-REGION.
+FT   REGION       20     24       C-REGION.
+FT   TOPO_DOM     25    182       NON CYTOPLASMIC.
+//
+ID   Smp_336880
+FT   SIGNAL        1     25       
+FT   REGION        1      8       N-REGION.
+FT   REGION        9     20       H-REGION.
+FT   REGION       21     25       C-REGION.
+FT   TOPO_DOM     26    248       NON CYTOPLASMIC.
+//
+ID   Smp_317520
+FT   SIGNAL        1     17       
+FT   REGION        1      1       N-REGION.
+FT   REGION        2     12       H-REGION.
+FT   REGION       13     17       C-REGION.
+FT   TOPO_DOM     18    185       NON CYTOPLASMIC.
+//
+ID   Smp_160250
+FT   SIGNAL        1     17       
+FT   REGION        1      1       N-REGION.
+FT   REGION        2     12       H-REGION.
+FT   REGION       13     17       C-REGION.
+FT   TOPO_DOM     18    182       NON CYTOPLASMIC.
+//
+ID   Smp_200460
+FT   TOPO_DOM      1    197       NON CYTOPLASMIC.
+//
+ID   Smp_300080
+FT   TOPO_DOM      1      6       CYTOPLASMIC.
+FT   TRANSMEM      7     27       
+FT   TOPO_DOM     28    193       NON CYTOPLASMIC.
+//
+ID   Smp_347320
+FT   SIGNAL        1     17       
+FT   REGION        1      1       N-REGION.
+FT   REGION        2     12       H-REGION.
+FT   REGION       13     17       C-REGION.
+FT   TOPO_DOM     18    185       NON CYTOPLASMIC.
+//
